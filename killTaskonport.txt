@@ -1,0 +1,3 @@
+netstat -aon | findstr :8888
+
+TaskKill /PID numberintheend /F
